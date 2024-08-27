@@ -19,7 +19,7 @@ def pdf_to_text(pdf_path, output_file):
     print(f"Text extracted and saved to {output_file}")
 
 # Example usage
-pdf_path = './Amrita.pdf'
-output_file = 'Amrita.txt'
+pdf_path = './666.pdf'
+output_file = '666.txt'
 
 pdf_to_text(pdf_path, output_file)
